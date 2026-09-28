@@ -1,2 +1,2 @@
 # NLP
-NLP Labs
+A repository for submitting NLP labs.
